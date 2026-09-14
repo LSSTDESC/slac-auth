@@ -6,6 +6,9 @@ Getting Started with SLAC Authentication
    :caption: Contents:
 
    slac_account
+   slac_invite
+   slac_fed_login
+   slac_guest
 
 
 
