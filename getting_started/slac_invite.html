@@ -1,0 +1,273 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SLAC Authentication Transition &mdash; LSSTDESC SLAC-AUTH Docs 0.1.0 documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/custom.css?v=d7e3758a" />
+
+  
+      <script src="../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../_static/documentation_options.js?v=01f34227"></script>
+      <script src="../_static/doctools.js?v=fd6eb6e6"></script>
+      <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Logging into SLAC Confluence Using Your Federated Identity" href="slac_fed_login.html" />
+    <link rel="prev" title="Getting a NERSC Computing Account" href="slac_account.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../index.html" class="icon icon-home">
+            LSSTDESC SLAC-AUTH Docs
+              <img src="../_static/desc_logo.png" class="logo" alt="Logo"/>
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="index.html">Getting Started with SLAC Authentication</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="slac_account.html">Getting a NERSC Computing Account</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">SLAC Authentication Transition</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#where-to-go-for-help">Where to Go for Help</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#handling-the-slac-invitation-email">Handling the SLAC Invitation Email</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#step-1-complete-the-federated-login">Step 1 — Complete the Federated Login</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="slac_fed_login.html">Logging into SLAC Confluence Using Your Federated Identity</a></li>
+<li class="toctree-l2"><a class="reference internal" href="slac_guest.html">SLAC Guest Accounts</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="index.html#indices-and-tables">Indices and tables</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../index.html">LSSTDESC SLAC-AUTH Docs</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../index.html" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="index.html">Getting Started with SLAC Authentication</a></li>
+      <li class="breadcrumb-item active">SLAC Authentication Transition</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="../_sources/getting_started/slac_invite.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="slac-authentication-transition">
+<h1>SLAC Authentication Transition<a class="headerlink" href="#slac-authentication-transition" title="Link to this heading"></a></h1>
+<p>As announced in October 2024, SLAC has updated how we authenticate into web
+resources such as SLAC Confluence and the DESC Publication Database (PubDB). To
+access these resources, DESC members now need to register a SLAC-recognized
+Federated Identity, an existing SLAC AD account, or create a SLAC Guest
+Account. Most DESC members do not have SLAC AD accounts.</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>If you have a SLAC Computing (Unix or AD/Windows) account, <strong>do not</strong> continue
+with the SLAC invitation process. Please reach out to
+<a class="reference external" href="mailto:lsst-desc-help&#37;&#52;&#48;slac&#46;stanford&#46;edu">lsst-desc-help<span>&#64;</span>slac<span>&#46;</span>stanford<span>&#46;</span>edu</a>
+for assistance setting up your access to SLAC Confluence.</p>
+</div>
+<nav class="contents local" id="on-this-page">
+<p class="topic-title">On this page</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#where-to-go-for-help" id="id3">Where to Go for Help</a></p></li>
+<li><p><a class="reference internal" href="#handling-the-slac-invitation-email" id="id4">Handling the SLAC Invitation Email</a></p></li>
+<li><p><a class="reference internal" href="#step-1-complete-the-federated-login" id="id5">Step 1 — Complete the Federated Login</a></p></li>
+</ul>
+</nav>
+<section id="where-to-go-for-help">
+<h2><a class="toc-backref" href="#id3" role="doc-backlink">Where to Go for Help</a><a class="headerlink" href="#where-to-go-for-help" title="Link to this heading"></a></h2>
+<p>Please reach out on Slack <strong>#desc-help</strong> or send email to
+<a class="reference external" href="mailto:lsst-desc-help&#37;&#52;&#48;slac&#46;stanford&#46;edu">lsst-desc-help<span>&#64;</span>slac<span>&#46;</span>stanford<span>&#46;</span>edu</a>
+if you have questions.</p>
+</section>
+<section id="handling-the-slac-invitation-email">
+<h2><a class="toc-backref" href="#id4" role="doc-backlink">Handling the SLAC Invitation Email</a><a class="headerlink" href="#handling-the-slac-invitation-email" title="Link to this heading"></a></h2>
+<p>DESC members who have not yet registered a federated identity will receive an
+email with the subject: <strong>“Collaborator Invitation to SLAC resources
+(LSST-DESC)”</strong>. The contents of that email will look like this:</p>
+<div class="highlight-text notranslate"><div class="highlight"><pre><span></span>Dear Collaborator,
+
+You have been invited to collaborate with SLAC. Please be sure to keep this
+message until you have completed the steps.
+
+Your unique Invitation ID is included below. Keep it safe. This code is
+unique to you and must be used throughout this process.
+
+Invitation ID: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+Step 1: Federated Login (Recommended)
+Visit this link to log into an Identity Provider:
+https://identity.slac.stanford.edu/registry/uncrowd/invite.php?invite_id=xxxxxxxxxxxx
+Enter your Invitation ID if it is not already filled in.
+You will likely not have a SLAC/Stanford account (your Confluence/Jira
+account is not a SLAC account) so you will want to search for your
+institution where it says "Enter Identity Provider Name" near the bottom
+of the page and then select it to login.
+
+If you are unable to locate your home institution then you should consider
+using a SLAC Guest account by searching for SLAC Guest. A SLAC Guest account
+allows you to use any working email account along with Two Factor
+authentication to be used for accessing SLAC Confluence/Jira and other
+applications. Instructions for creating and using a SLAC Guest account are
+at https://it.slac.stanford.edu/support/KB0013037.
+
+If you are successful you will have seen a "Thank you" web page, continue
+to Step 2.
+
+Step 2: Wait for Confirmation
+Your SLAC Point of Contact will reach out to you via email to inform you
+that your access to SLAC Confluence/Jira is ready. Once you have received
+that confirmation, login to SLAC Confluence using the same federated login
+you used in Step 1: https://confluence.slac.stanford.edu/
+You're done!
+It will take at least two business days for the SLAC Confluence/Jira
+administrators to assign your access to the appropriate resources.
+</pre></div>
+</div>
+</section>
+<section id="step-1-complete-the-federated-login">
+<h2><a class="toc-backref" href="#id5" role="doc-backlink">Step 1 — Complete the Federated Login</a><a class="headerlink" href="#step-1-complete-the-federated-login" title="Link to this heading"></a></h2>
+<ol class="arabic">
+<li><p>Click the link provided in the invitation email.</p>
+<a class="reference internal image-reference" href="https://github.com/user-attachments/assets/466d7f2a-1bf1-471a-a00d-3a941445da39"><img alt="SLAC invitation landing page" src="https://github.com/user-attachments/assets/466d7f2a-1bf1-471a-a00d-3a941445da39" style="width: 70%;" />
+</a>
+</li>
+<li><p>Enter your Invitation ID (provided in the email) if it is not already filled
+in.</p></li>
+<li><p>Click <strong>—–&gt;&gt;   Login to an Identity Provider   &lt;&lt;—–</strong></p>
+<a class="reference internal image-reference" href="https://github.com/user-attachments/assets/06a2708a-4732-4d1b-97fa-d292fd59bc97"><img alt="Identity Provider login button" src="https://github.com/user-attachments/assets/06a2708a-4732-4d1b-97fa-d292fd59bc97" style="width: 70%;" />
+</a>
+</li>
+<li><p>Use the text box at the bottom of the page where it says <strong>Enter Identity
+Provider Name</strong> to search for your institution or affiliation. This will
+most likely be your home institution, but it could be any institution you
+are associated with.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>The drop-down menu of identity providers is tedious to navigate. Use the
+text search wherever possible.</p>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>If you cannot find an institution in the list where you have credentials,
+you will need to <a class="reference external" href="https://github.com/LSSTDESC/slac-authentication-transition/wiki/SLAC-Guest-Accounts">create a SLAC Guest Account</a>.</p>
+</div>
+</li>
+<li><p>Select your institution and log in with your institutional credentials
+(your normal institution username and password). Below is an example using
+Northeastern University:</p>
+<a class="reference internal image-reference" href="https://github.com/user-attachments/assets/f8b60725-15bb-4b0f-b8fb-63d06e725941"><img alt="Example institutional login screen for Northeastern University" src="https://github.com/user-attachments/assets/f8b60725-15bb-4b0f-b8fb-63d06e725941" style="width: 70%;" />
+</a>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>If your institution does not provide the required set of attributes to
+authenticate with SLAC, you will see an error message. If this happens,
+start over and <a class="reference external" href="https://github.com/LSSTDESC/slac-authentication-transition/wiki/SLAC-Guest-Accounts">create a SLAC Guest Account</a>.</p>
+</div>
+</li>
+<li><p>If your login is successful, you will be returned to the “Login to your
+Identity Provider” form and see a <strong>“Congratulations! you have completed
+federated login and Step 1 in the email instructions!”</strong> message. Your
+username and Invitation ID should also be populated:</p>
+<a class="reference internal image-reference" href="https://github.com/user-attachments/assets/2943c0d2-b4f3-4fd0-bd7b-78ed1cfdc66b"><img alt="Congratulations confirmation screen after successful federated login" src="https://github.com/user-attachments/assets/2943c0d2-b4f3-4fd0-bd7b-78ed1cfdc66b" style="width: 70%;" />
+</a>
+</li>
+<li><p>Click <strong>Continue</strong> to proceed with the rest of the SLAC registration
+process. You will see a new confirmation message:</p>
+<a class="reference internal image-reference" href="https://github.com/user-attachments/assets/faf7246b-b822-4666-9c51-e6a63dab8a4c"><img alt="Post-login confirmation screen" src="https://github.com/user-attachments/assets/faf7246b-b822-4666-9c51-e6a63dab8a4c" style="width: 70%;" />
+</a>
+<p>You will receive an email with the subject <strong>“You have been invited to join
+the SLAC Identity Portal”</strong> sent to the same address where you received the
+original invitation.</p>
+</li>
+<li><p>Click the link in that email.</p>
+<a class="reference internal image-reference" href="https://github.com/user-attachments/assets/f583622e-0582-4f17-919c-721a6f3911a4"><img alt="SLAC Identity Portal invitation email link" src="https://github.com/user-attachments/assets/f583622e-0582-4f17-919c-721a6f3911a4" style="width: 40%;" />
+</a>
+</li>
+<li><p>Click <strong>Accept</strong>.</p>
+<a class="reference internal image-reference" href="https://github.com/user-attachments/assets/abad6390-6a9e-4fcf-8613-41b569f6a6f7"><img alt="Accept button on the SLAC Identity Portal" src="https://github.com/user-attachments/assets/abad6390-6a9e-4fcf-8613-41b569f6a6f7" style="width: 70%;" />
+</a>
+</li>
+<li><p>Click <strong>Review Terms and Conditions</strong>, read them, and click <strong>Ok</strong>. Then
+check <strong>I Agree</strong> and click <strong>Submit</strong>.</p>
+<p>You will see the following confirmation screen and receive an email with
+the subject <strong>“Initial registration completed”</strong>:</p>
+<a class="reference internal image-reference" href="https://github.com/user-attachments/assets/a8282cb6-2b25-458c-a5cf-80842ab4dc81"><img alt="Initial registration completed confirmation screen" src="https://github.com/user-attachments/assets/a8282cb6-2b25-458c-a5cf-80842ab4dc81" style="width: 70%;" />
+</a>
+</li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Once you have created your account, it will take SLAC <strong>up to two business
+days</strong> to enable your access to the DESC space on SLAC Confluence. You will
+be notified by email once your Confluence access is ready.</p>
+</div>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="slac_account.html" class="btn btn-neutral float-left" title="Getting a NERSC Computing Account" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="slac_fed_login.html" class="btn btn-neutral float-right" title="Logging into SLAC Confluence Using Your Federated Identity" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, LSSTDESC.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
