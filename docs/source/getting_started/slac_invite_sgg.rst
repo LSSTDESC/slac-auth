@@ -88,3 +88,11 @@ This message includes a note to wtch for an upcoming email from: slac-registry-n
 .. image:: https://github.com/user-attachments/assets/df618522-b475-4f2d-9d9f-971a7f79ae74
       :width: 50%
       :alt: SLAC second email
+
+Please watch for an email with the subject line: **Action Required: Verify your Federated Identity with SLAC**
+
+.. image:: https://github.com/user-attachments/assets/43cd1776-d1a1-4824-a3f3-6084275a16c5
+      :width: 50%
+      :alt: SLAC second email
+
+Once you receive that email, click on the link provided.  What you do next depends on whether you have already registered your federated credentials that you already have such as with your home institution, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
