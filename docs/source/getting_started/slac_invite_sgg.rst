@@ -82,3 +82,9 @@ You will receive a new email with the subject line: **SLAC registration approved
 .. image:: https://github.com/user-attachments/assets/f0bd8771-c27b-427c-8abb-1c22aeac372c
       :width: 50%
       :alt: SLAC second email
+
+This message includes a note to wtch for an upcoming email from: slac-registry-noreply@slac.stanford.edu 
+
+.. image:: https://github.com/user-attachments/assets/df618522-b475-4f2d-9d9f-971a7f79ae74
+      :width: 50%
+      :alt: SLAC second email
