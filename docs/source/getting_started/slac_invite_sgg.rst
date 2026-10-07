@@ -104,7 +104,7 @@ Please watch for an email with the subject line: **Next Step: Link your federate
 
 Once you receive that email, click on the link provided.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
 
-Option 1: You are a new DESC member or you have never registered credentials with SLAC
+`Option 1 <option1_>`_: You are a new DESC member or you have never registered credentials with SLAC 
 
 Option 2: You have already registered your federated account for SLAC access
 
@@ -126,6 +126,7 @@ After you have completed this process it will take SLAC up to 2 business days to
 
 You will be notified when your Confluence access is ready.
 
+.. _option1:
 Option 1
 ---------
 
