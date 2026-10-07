@@ -96,3 +96,15 @@ Please watch for an email with the subject line: **Action Required: Verify your 
       :alt: SLAC second email
 
 Once you receive that email, click on the link provided.  What you do next depends on whether you have already registered your federated credentials that you already have such as with your home institution, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
+
+When you successfully complete this final step, you should see a "Thank you for registering your federated identity with the SLAC Guest Gateway!" message
+
+.. image:: https://github.com/user-attachments/assets/5bd59b20-79d5-42b9-b479-a729f0fb7de5
+      :width: 50%
+      :alt: SLAC second email
+
+You will also receive a final email with the subject line: **Welcome to SLAC**
+
+.. image:: https://github.com/user-attachments/assets/ffcb46e8-fc78-46ea-a44d-4d57ec8e7b82
+      :width: 50%
+      :alt: SLAC second email
