@@ -7,6 +7,7 @@ Getting Started with SLAC Authentication
 
    slac_account
    slac_invite
+   slac_invite_sgg
    slac_fed_login
    slac_guest
 
