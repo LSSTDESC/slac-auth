@@ -1,9 +1,16 @@
+###########################################
+Registering with the SLAC Guest Gateway
+###########################################
+
 Where to Go for Help
 --------------------
+
+SLAC provides some documentation on the `SLAC Guest Gateway (SGG) <https://slacprod.servicenowservices.com/kb_view.do?sysparm_article=KB0015469>`__ and a `FAQ <https://slacprod.servicenowservices.com/kb_view.do?sysparm_article=KB0015399>`__
 
 Please reach out on Slack **#desc-help** or send email to
 `lsst-desc-help@slac.stanford.edu <mailto:lsst-desc-help@slac.stanford.edu>`_
 if you have questions.
+
 
 
 Handling the SLAC Invitation Email
@@ -77,25 +84,31 @@ You will land on a "Thank you" page with a message to check your email
       :width: 50%
       :alt: SLAC thank you
 
-You will receive a new email with the subject line: **SLAC registration approved**
+You will receive a new email with the subject line: **SLAC registration approved - Additional steps required**
 
 .. image:: https://github.com/user-attachments/assets/f0bd8771-c27b-427c-8abb-1c22aeac372c
       :width: 50%
       :alt: SLAC second email
 
-This message includes a note to wtch for an upcoming email from: slac-registry-noreply@slac.stanford.edu 
+This message includes a note to look for an upcoming email from: slac-registry-noreply@slac.stanford.edu 
 
 .. image:: https://github.com/user-attachments/assets/df618522-b475-4f2d-9d9f-971a7f79ae74
       :width: 50%
       :alt: SLAC second email
 
-Please watch for an email with the subject line: **Action Required: Verify your Federated Identity with SLAC**
+Please watch for an email with the subject line: **Next Step: Link your federated account for SLAC access"**
 
 .. image:: https://github.com/user-attachments/assets/43cd1776-d1a1-4824-a3f3-6084275a16c5
       :width: 50%
       :alt: SLAC second email
 
-Once you receive that email, click on the link provided.  What you do next depends on whether you have already registered your federated credentials that you already have such as with your home institution, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
+Once you receive that email, click on the link provided.  What you do next depends on whether you have already registered your federated credentials that you already have with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
+
+Option 1: You are a new DESC member 
+
+Option 2: You have already registered your federated account for SLAC access
+
+Option 3: You have a SLAC Guest account
 
 When you successfully complete this final step, you should see a "Thank you for registering your federated identity with the SLAC Guest Gateway!" message
 
@@ -103,8 +116,10 @@ When you successfully complete this final step, you should see a "Thank you for 
       :width: 50%
       :alt: SLAC second email
 
-You will also receive a final email with the subject line: **Welcome to SLAC**
+You will receive a final email with the subject line: **Welcome to SLAC**
 
 .. image:: https://github.com/user-attachments/assets/ffcb46e8-fc78-46ea-a44d-4d57ec8e7b82
       :width: 50%
       :alt: SLAC second email
+
+After you have completed this process it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. 
