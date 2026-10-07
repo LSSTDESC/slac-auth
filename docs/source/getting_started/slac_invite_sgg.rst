@@ -96,15 +96,15 @@ This message includes a note to look for an upcoming email from: slac-registry-n
       :width: 50%
       :alt: SLAC second email
 
-Please watch for an email with the subject line: **Next Step: Link your federated account for SLAC access"**
+Please watch for an email with the subject line: **Next Step: Link your federated account for SLAC access**
 
 .. image:: https://github.com/user-attachments/assets/43cd1776-d1a1-4824-a3f3-6084275a16c5
       :width: 50%
       :alt: SLAC second email
 
-Once you receive that email, click on the link provided.  What you do next depends on whether you have already registered your federated credentials that you already have with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
+Once you receive that email, click on the link provided.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
 
-Option 1: You are a new DESC member 
+Option 1: You are a new DESC member or you have never registered credentials with SLAC
 
 Option 2: You have already registered your federated account for SLAC access
 
@@ -123,3 +123,25 @@ You will receive a final email with the subject line: **Welcome to SLAC**
       :alt: SLAC second email
 
 After you have completed this process it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. 
+
+You will be notified when your Confluence access is ready.
+
+Option 1
+---------
+
+In the **Next Step: Link your federated account for SLAC access** email, click the link and you will be brought to the SLAC Login page
+
+.. image:: https://github.com/user-attachments/assets/06a2708a-4732-4d1b-97fa-d292fd59bc97
+      :width: 70%
+      :alt: Identity Provider login button
+
+Use the text box at the bottom of the page where it says **Enter Identity Provider Name** to search for your institution or affiliation. This will most likely be your home institution, but it could be any institution you are associated with.
+
+.. tip::
+
+   The drop-down menu of identity providers is tedious to navigate. Use the text search wherever possible.
+
+.. warning::
+
+   If you cannot find an institution in the list where you have credentials,
+   you will need to `create a SLAC Guest Account <https://github.com/LSSTDESC/slac-authentication-transition/wiki/SLAC-Guest-Accounts>`_.
