@@ -64,3 +64,21 @@ Now you will be presented with SLAC's Commitment to a Respectful Workplace.  Ple
   .. image:: https://github.com/user-attachments/assets/bd35b127-4e30-4e2b-a55f-e9b87b7ae841
       :width: 50%
       :alt: SLAC invitation landing page
+
+Next is the "Attestation" page where you confirm you have completed these forms on your own and click "Next"
+
+.. image:: https://github.com/user-attachments/assets/9768a7a2-03e2-4708-a29e-22090afb00ec
+      :width: 50%
+      :alt: SLAC attestation
+
+You will land on a "Thank you" page with a message to check your email
+
+.. image:: https://github.com/user-attachments/assets/59a65275-d999-4748-9bf6-8700cc9c263b
+      :width: 50%
+      :alt: SLAC thank you
+
+You will receive a new email with the subject line: 
+
+.. image:: https://github.com/user-attachments/assets/f0bd8771-c27b-427c-8abb-1c22aeac372c
+      :width: 50%
+      :alt: SLAC second email
