@@ -72,57 +72,29 @@ with the subject **"Account Activated"** will be sent to you:
 
 Click **Continue**. You will be brought to a login screen — enter your new SLAC
 Guest account username (the email you provided when creating the account) and
-the password you just set. A verification code will be sent to your email address.
+the password you just set.
 
 .. image:: https://github.com/user-attachments/assets/4bce47d9-2795-4e4c-9e8a-8174eb6847a4
-   :width: 70%
+   :width: 50%
    :alt: SLAC Guest account login screen
 
-You should see the message: **"Congratulations! you have completed federated
-login and Step 1 in the email instructions!"**
+ A verification code will be sent to your email address.
 
-Your new SLAC Guest account username (the email address you provided) and your
-Invitation ID should also be populated. If not, fill them in manually.
+.. image:: https://github.com/user-attachments/assets/1b16dbfe-b362-4505-ab58-5b0f46fa7d1f
+   :width: 50%
+   :alt: SLAC Guest account login screen
 
-Click **Continue** to proceed with the rest of the SLAC registration process.
-You will see a new confirmation message:
+ Enter the code into the prompt and click "Confirm" to finish logging in.
 
-.. image:: https://github.com/user-attachments/assets/faf7246b-b822-4666-9c51-e6a63dab8a4c
-   :width: 70%
-   :alt: Post-registration confirmation screen
+.. image:: https://github.com/user-attachments/assets/c5c36778-077e-4415-b571-1cf620d9ff26
+   :width: 50%
+   :alt: SLAC Guest account login screen
 
-You will receive an email with the subject **"You have been invited to join the
-SLAC Identity Portal"**, sent to the same address where you received the
-original SLAC invitation.
+Once logged in your should see this confirmation:
 
-1. Click the link in that email.
-
-   .. image:: https://github.com/user-attachments/assets/f583622e-0582-4f17-919c-721a6f3911a4
-      :width: 40%
-      :alt: SLAC Identity Portal invitation email
-
-2. Click **Accept**.
-
-   .. image:: https://github.com/user-attachments/assets/abad6390-6a9e-4fcf-8613-41b569f6a6f7
-      :width: 70%
-      :alt: Accept button on the SLAC Identity Portal
-
-3. Click **Review Terms and Conditions**, read them, and click **Ok**. Then
-   check **I Agree** and click **Submit**.
-
-   You will see the following confirmation screen and receive an email with the
-   subject **"Initial registration completed"**:
-
-   .. image:: https://github.com/user-attachments/assets/a8282cb6-2b25-458c-a5cf-80842ab4dc81
-      :width: 70%
-      :alt: Initial registration completed confirmation screen
-
-.. note::
-
-   Once you have created your account, it will take SLAC **up to two business
-   days** to enable your access to the DESC space on SLAC Confluence. You will
-   be notified by email once your Confluence access is ready.
-
+.. image:: https://github.com/user-attachments/assets/301967b0-1b5e-4e55-85aa-e6b610d28239
+   :width: 50%
+   :alt: SLAC Guest account login screen
 
 .. _slac-guest-login:
 
