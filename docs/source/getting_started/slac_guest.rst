@@ -101,9 +101,6 @@ Once logged in your should see this confirmation:
 Logging into SLAC Confluence with a SLAC Guest Account
 --------------------------------------------------------
 
-Point your web browser to:
-https://confluence.slac.stanford.edu/display/LSSTDESC/Home
-
 .. image:: https://github.com/user-attachments/assets/d46358f5-16e5-461c-ae98-50e1d9d64475
    :width: 50%
    :alt: SLAC Confluence login page
