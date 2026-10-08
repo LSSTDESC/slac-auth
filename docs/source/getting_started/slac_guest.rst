@@ -4,17 +4,17 @@ SLAC Guest Accounts
 Those without SLAC-approved federated identities or an existing SLAC Computing
 account can create a SLAC Guest account to access DESC resources at SLAC.
 
+SLAC provides some `documentation about setting up SLAC Guest accounts <https://slacprod.servicenowservices.com/kb_view.do?sysparm_article=KB0013037>`__
+
 .. contents:: On this page
    :local:
    :depth: 1
 
 
-Setting Up a SLAC Guest Account
+Creating a SLAC Guest Account
 ---------------------------------
 
-When you receive an email from SLAC IT with the subject **"Collaborator
-Invitation to SLAC resources (LSST-DESC)"**, click the link in Step 1, where
-you will visit a page that looks like this:
+When you receive an email from SLAC IT with the subject **"Next Step: Link your federated account for SLAC access "**, click the link in the email, and you will open a login page that looks like this:
 
 .. image:: https://github.com/user-attachments/assets/2d133c93-0ad4-4f54-997d-bb20ee5d89f1
    :width: 70%
@@ -72,9 +72,9 @@ with the subject **"Account Activated"** will be sent to you:
 
 Click **Continue**. You will be brought to a login screen — enter your new SLAC
 Guest account username (the email you provided when creating the account) and
-the password you just set:
+the password you just set. A verification code will be sent to your email address.
 
-.. image:: https://github.com/user-attachments/assets/72e0ca01-9f57-4fdc-81f2-cae4e3df983f
+.. image:: https://github.com/user-attachments/assets/4bce47d9-2795-4e4c-9e8a-8174eb6847a4
    :width: 70%
    :alt: SLAC Guest account login screen
 
