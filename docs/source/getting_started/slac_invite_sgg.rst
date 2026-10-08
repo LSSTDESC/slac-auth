@@ -106,9 +106,9 @@ Once you receive that email, click on the link provided.  What you do next depen
 
 `Option 1 <option1_>`_: You are a new DESC member or you have never registered credentials with SLAC 
 
-Option 2: You have already registered your federated account for SLAC access
+Option 2: You have already registered your federated account for SLAC access - Log in with your federated credentials
 
-Option 3: You have a SLAC Guest account
+Option 3: You have a SLAC Guest account `Log in using your SLAC Guest account credentials <https://github.com/LSSTDESC/slac-auth/blob/main/docs/source/getting_started/slac_guest.rst#id2>`_
 
 When you successfully complete this final step, you should see a "Thank you for registering your federated identity with the SLAC Guest Gateway!" message
 
@@ -116,19 +116,14 @@ When you successfully complete this final step, you should see a "Thank you for 
       :width: 50%
       :alt: SLAC second email
 
-You will receive a final email with the subject line: **Welcome to SLAC**
+`Continue <after_>`_
 
-.. image:: https://github.com/user-attachments/assets/ffcb46e8-fc78-46ea-a44d-4d57ec8e7b82
-      :width: 50%
-      :alt: SLAC second email
-
-After you have completed this process it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. 
-
-You will be notified when your Confluence access is ready.
+----
 
 .. _option1:
-Option 1
----------
+
+Option 1 New DESC member or you have never registered credentials with SLAC 
+-------------------------------------------------------------------------------------
 
 In the **Next Step: Link your federated account for SLAC access** email, click the link and you will be brought to the SLAC Login page
 
@@ -136,13 +131,30 @@ In the **Next Step: Link your federated account for SLAC access** email, click t
       :width: 70%
       :alt: Identity Provider login button
 
-Use the text box at the bottom of the page where it says **Enter Identity Provider Name** to search for your institution or affiliation. This will most likely be your home institution, but it could be any institution you are associated with.
+Use the text box at the bottom of the page where it says **Enter Identity Provider Name** to search for your institution or affiliation. This will most likely be your home institution, but it could be any institution you are associated with. The drop-down menu of identity providers is tedious to navigate. Use the text search wherever possible.
 
-.. tip::
+If you cannot find an institution in the list where you have credentials, you will need to `create a SLAC Guest Account <https://lsstdesc.org/slac-auth/getting_started/slac_guest.html>`_.
 
-   The drop-down menu of identity providers is tedious to navigate. Use the text search wherever possible.
+If you find your institution, click your institution's name, and provide your credentials. You will use the same username and password you normally use at your institution.  Upon successful login, you should see this confirmation message:
 
-.. warning::
+.. image:: https://github.com/user-attachments/assets/f7b92893-7d74-41da-b063-689224a2ebdb
+      :width: 70%
+      :alt: Identity Provider login button
 
-   If you cannot find an institution in the list where you have credentials,
-   you will need to `create a SLAC Guest Account <https://github.com/LSSTDESC/slac-authentication-transition/wiki/SLAC-Guest-Accounts>`_.
+----
+
+.. _after:
+
+After you have registered your federated account
+-------------------------------------------------
+
+Once you have registered your federated credentials, your registration data will be validated and verified against existing records. Once this process is complete (typically 1-2 hours, if no issues are found), you will receive a **Welcome to SLAC** email with your SLAC ID (SID#) and additional information.
+
+.. image:: https://github.com/user-attachments/assets/ffcb46e8-fc78-46ea-a44d-4d57ec8e7b82
+      :width: 50%
+      :alt: SLAC second email
+
+
+After you have completed this process it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. 
+
+You will be notified when your Confluence access is ready.
