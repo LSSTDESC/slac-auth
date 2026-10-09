@@ -31,7 +31,7 @@ When you successfully complete this final step, you should see a "Thank you for 
 
 Your registration data will be validated and verified against existing records. Once this process is complete (typically 1-2 hours, if no issues are found), you will receive a **Welcome to SLAC** email with your SLAC ID (SID#).
 
-After receiving the "Welcome to SLAC" email, it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. DESC Operations will send you an email notification.
+After receiving the **Welcome to SLAC** email, it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. DESC Operations will send you an email notification.
 
 
 Handling the SLAC Invitation Email: Step by Step
