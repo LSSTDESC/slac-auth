@@ -11,10 +11,31 @@ Please reach out on Slack **#desc-help** or send email to
 `lsst-desc-help@slac.stanford.edu <mailto:lsst-desc-help@slac.stanford.edu>`_
 if you have questions.
 
+Handling the SLAC Invitation Email: Quick Overview
+----------------------------------------------------
+
+* Please consider white listing slac.stanford.edu in your email client.
+* You will receive an email with the subject line: **Invitation to register with SLAC National Accelerator Laboratory**. 
+* Open the email and click **Register**
+* Complete the web form that is opened in your browser, clicking **Next** after each step
+* When asked if you plan on-site access to SLAC.  Unless you know otherwise, please answer "No" and click **Next**
+* After completing the online form, you will receive a new email with the subject line: **SLAC registration approved - Additional steps required**
+* You will then receive an email with the subject line: **Next Step: Link your federated account for SLAC access**
+  Click on the link provided.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account
+
+  * `Option 1 <option1_>`_: You are a new DESC member or you have never registered credentials with SLAC 
+  * Option 2: You have already registered your federated account for SLAC access - Log in with your federated credentials
+  * Option 3: You have a SLAC Guest account `Log in using your SLAC Guest account credentials <https://github.com/LSSTDESC/slac-auth/blob/main/docs/source/getting_started/slac_guest.rst#id2>`_
+
+When you successfully complete this final step, you should see a "Thank you for registering your federated identity with the SLAC Guest Gateway!" message.
+
+Your registration data will be validated and verified against existing records. Once this process is complete (typically 1-2 hours, if no issues are found), you will receive a **Welcome to SLAC** email with your SLAC ID (SID#).
+
+After receiving the "Welcome to SLAC" email, it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. DESC Operations will send you an email notification.
 
 
-Handling the SLAC Invitation Email
-----------------------------------------
+Handling the SLAC Invitation Email: Step by Step
+------------------------------------------------
 
 You will receive an email with the subject line: **Invitation to register with SLAC National Accelerator Laboratory**. Open the email and click **Register**
   
