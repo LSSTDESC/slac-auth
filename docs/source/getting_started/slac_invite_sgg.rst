@@ -2,6 +2,10 @@
 Registering with the SLAC Guest Gateway
 ###########################################
 
+.. contents:: On this page
+   :local:
+   :depth: 1
+
 Where to Go for Help
 --------------------
 
@@ -144,7 +148,7 @@ When you successfully complete this final step, you should see a "Thank you for 
 .. _option1:
 
 Option 1 New DESC member or you have never registered credentials with SLAC 
--------------------------------------------------------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In the **Next Step: Link your federated account for SLAC access** email, click the link and you will be brought to the SLAC Login page
 
