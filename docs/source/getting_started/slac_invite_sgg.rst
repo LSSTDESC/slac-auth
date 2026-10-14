@@ -22,7 +22,7 @@ Handling the SLAC Invitation Email: Quick Overview
 * You will receive an email with the subject line: **Invitation to register with SLAC National Accelerator Laboratory**. 
 * Open the email and click **Register**
 * Complete the web form that is opened in your browser, clicking **Next** after each step
-* When asked if you plan on-site access to SLAC.  Unless you know otherwise, please answer "No" and click **Next**
+* When asked if you plan on-site access to SLAC. The answer should almost certainly be "No" as it refers to working at SLAC, and visiting SLAC for open meetings like Sprint Week or a collaboration meeting do not count. Click **Next**
 * After completing the online form, you will receive a new email with the subject line: **SLAC registration approved - Additional steps required**
 * You will then receive an email with the subject line: **Next Step: Link your federated account for SLAC access**
   Click on the link provided.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account
@@ -85,7 +85,7 @@ Click "Next"
       :width: 50%
       :alt: SLAC invitation landing page
 
-The next page will ask if you plan on-site access to SLAC.  Unless you know otherwise, please answer "No" and click **Next**
+The next page will ask if you plan on-site access to SLAC. The answer should almost certainly be "No" as it refers to working at SLAC, and visiting SLAC for open meetings like Sprint Week or a collaboration meeting do not count. Click **Next**
 
 .. image:: https://github.com/user-attachments/assets/b919bc1e-92f9-49cc-b9f6-c160af33300a
       :width: 50%
@@ -180,6 +180,6 @@ Once you have registered your federated credentials, your registration data will
       :alt: SLAC second email
 
 
-After you have completed this process it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. 
+After you have completed this process, if you are a new DESC member, it will take SLAC up to 2 business days to add your registered credentials to the DESC group on SLAC Confluence. 
 
 You will be notified when your Confluence access is ready.
