@@ -24,11 +24,11 @@ Handling the SLAC Invitation Email: Quick Overview
 * Complete the web form that is opened in your browser, clicking **Next** after each step
 * When asked if you plan on-site access to SLAC. The answer should almost certainly be "No" as it refers to working at SLAC, and visiting SLAC for open meetings like Sprint Week or a collaboration meeting do not count. Click **Next**
 * After completing the online form, you will receive a new email with the subject line: **SLAC registration approved - Additional steps required**
-* You will then receive an email with the subject line: **Next Step: Link your federated account for SLAC access**
-  Click on the link provided.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account
+* You will then receive an email with the subject line: **Next Step: Link your federated account for SLAC access**  It may take some time before you receive this email.
+  Click on the link in the email **"SLAC Identity Verification Link"**.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account
 
-  * `Option 1 <option1_>`_: You are a new DESC member or you have never registered credentials with SLAC 
-  * Option 2: You have already registered your federated account for SLAC access - Log in with your federated credentials
+  * `Option 1 <option1_>`_: You are a **new** DESC member or you have **never** registered credentials with SLAC to access the DESC space on Confluence 
+  * Option 2: You have already registered your federated account for SLAC access - Log in with the same federated credentials you registered previously
   * Option 3: You have a SLAC Guest account `Log in using your SLAC Guest account credentials <https://github.com/LSSTDESC/slac-auth/blob/main/docs/source/getting_started/slac_guest.rst#id2>`_
 
 When you successfully complete this final step, you should see a "Thank you for registering your federated identity with the SLAC Guest Gateway!" message.
@@ -121,13 +121,13 @@ This message includes a note to look for an upcoming email from: slac-registry-n
       :width: 50%
       :alt: SLAC second email
 
-Please watch for an email with the subject line: **Next Step: Link your federated account for SLAC access**
+Please watch for an email with the subject line: **Next Step: Link your federated account for SLAC access**.  It will take a few minutes to arrive.
 
 .. image:: https://github.com/user-attachments/assets/43cd1776-d1a1-4824-a3f3-6084275a16c5
       :width: 50%
       :alt: SLAC second email
 
-Once you receive that email, click on the link provided.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
+Once you receive that email, click on the link **"SLAC Identity Verification Link"**.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
 
 `Option 1 <option1_>`_: You are a new DESC member or you have never registered credentials with SLAC 
 
