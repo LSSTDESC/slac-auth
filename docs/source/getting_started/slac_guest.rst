@@ -39,7 +39,7 @@ Click **Create Account**.
    :width: 70%
    :alt: SLAC Guest account creation form
 
-Fill in the form, including the checkbox, and click **Create**.
+Fill in the form, making sure to check **"First accept the terms of service described here"**, and click **Create**.
 
 .. note::
 
