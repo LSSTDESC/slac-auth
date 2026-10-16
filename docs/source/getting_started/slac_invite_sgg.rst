@@ -28,8 +28,8 @@ Handling the SLAC Invitation Email: Quick Overview
   Click on the link in the email **"SLAC Identity Verification Link"**.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account
 
   * `Option 1 <option1_>`_: You are a **new** DESC member or you have **never** registered credentials with SLAC to access the DESC space on Confluence 
-  * Option 2: You have already registered your federated account for SLAC access - Log in with the same federated credentials you registered previously
-  * Option 3: You have a SLAC Guest account `Log in using your SLAC Guest account credentials <https://github.com/LSSTDESC/slac-auth/blob/main/docs/source/getting_started/slac_guest.rst#id2>`_
+  * **Option 2**: You have already registered your federated account for SLAC access. Log in with the **same** federated credentials you registered previously.  This is important to make sure you are linked to your existing Confluence account.  If unsure, please check this `spreadsheet <https://docs.google.com/spreadsheets/d/1ZWFefZjDcDNCez63lhpNaquLmJ9pYb71LW-Q6Jr_jgI/edit?usp=sharing>`__.
+  * **Option 3**: You have a SLAC Guest account `Log in using your SLAC Guest account credentials <https://github.com/LSSTDESC/slac-auth/blob/main/docs/source/getting_started/slac_guest.rst#id2>`_
 
 When you successfully complete this final step, you should see a "Thank you for registering your federated identity with the SLAC Guest Gateway!" message.
 
@@ -129,11 +129,9 @@ Please watch for an email with the subject line: **Next Step: Link your federate
 
 Once you receive that email, click on the link **"SLAC Identity Verification Link"**.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
 
-`Option 1 <option1_>`_: You are a new DESC member or you have never registered credentials with SLAC 
-
-Option 2: You have already registered your federated account for SLAC access - Log in with your federated credentials
-
-Option 3: You have a SLAC Guest account `Log in using your SLAC Guest account credentials <https://github.com/LSSTDESC/slac-auth/blob/main/docs/source/getting_started/slac_guest.rst#id2>`_
+ * `Option 1 <option1_>`_: You are a **new** DESC member or you have **never** registered credentials with SLAC to access the DESC space on Confluence 
+  * **Option 2**: You have already registered your federated account for SLAC access. Log in with the **same** federated credentials you registered previously.  This is important to make sure you are linked to your existing Confluence account.  If unsure, please check this `spreadsheet <https://docs.google.com/spreadsheets/d/1ZWFefZjDcDNCez63lhpNaquLmJ9pYb71LW-Q6Jr_jgI/edit?usp=sharing>`__.
+  * **Option 3**: You have a SLAC Guest account `Log in using your SLAC Guest account credentials <https://github.com/LSSTDESC/slac-auth/blob/main/docs/source/getting_started/slac_guest.rst#id2>`_
 
 When you successfully complete this final step, you should see a "Thank you for registering your federated identity with the SLAC Guest Gateway!" message
 
