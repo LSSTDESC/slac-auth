@@ -1,84 +1,53 @@
-Getting a NERSC Computing Account
-==================================
+How to log into SLAC web applications using your SLAC Federated Identity
+========================================================================
 
-.. contents:: On this page
-   :local:
-   :depth: 1
+When you visit a SLAC web application such as the
+`DESC space in SLAC Confluence <https://confluence.slac.stanford.edu/display/LSSTDESC/Home>`__
+and click "Log in", you will see a login screen:
 
+.. image:: https://github.com/user-attachments/assets/552b59eb-07fb-4527-906b-b694aa98ed9f
+   :alt: SLAC Confluence login screen
+   :width: 40%
 
-.. _have-a-nersc-account:
+Click on "SLAC Login" and log in using your SLAC AD/Windows SSO credentials.
 
-I Already Have a NERSC Account
---------------------------------
+If this is the first time you have logged in using your SLAC Windows
+credentials, you may be prompted to set up DUO for two-factor authentication.
+Details about Duo and two-factor authentication at SLAC are available
+`on this web page <https://it.slac.stanford.edu/support/KB0010216#mcetoc_1frvrbjf173>`__.
 
-Follow these steps if you already have a NERSC account and need access to the
-DESC repository.
+How to complete the annual SLAC CyberSecurity Training
+======================================================
 
-1. If you haven't already, `apply to become a DESC Member
-   <https://lsstdesc.org/pages/apply.html>`_.
-2. Visit the NERSC website:
-   https://docs.nersc.gov/accounts/
-3. Click **Create a NERSC Account form**.
-4. Click **I have a current NERSC account**.
-5. Enter your NERSC username.
-6. Search for the project using PI Name by entering ``Digel`` and choose the
-   ``m1727`` project, which is LSST_DESC.
-7. Complete the rest of the form and click **Ok** at the top right of the page.
+* Visit: https://slactraining.csod.com/
 
-You will receive email confirmation about your updated status within a few days,
-possibly sooner.
+  * Click on forgot password and provide your SLAC username. The system will
+    send you an email with a temporary password - just for the training. This
+    is not a password you will use anywhere else, including in Confluence. But
+    you should also save this password, because you will need it next year to
+    complete the Cybersecurity training 🙂
 
-.. note::
+* SLAC will send that email with the temp password to the email address they
+  have on file for you. This is NOT necessarily the same email that DESC has
+  in its member database. That is a completely separate system. If you find
+  you do not receive an email with a temp password within 30 minutes, you
+  should call SLAC IT Help +1 650 926 4357 (Monday-Friday, 7a-6p Pacific) and
+  get your email updated in their system so you can complete the CyberSecurity
+  Training. If you have trouble with this reach out on Slack #desc-help or
+  lsst-desc-help@slac.stanford.edu
 
-   If you need assistance, contact
-   lsst-desc-opsi-mgmt at slac dot stanford dot edu 
+* Once you have the training password, go back to: https://slactraining.csod.com/
 
-Once your account access is confirmed, proceed to **Managing a NERSC Account**
-for useful details about managing and setting up your NERSC account.
+  * Enter your SLAC System ID as the username and provide the temporary
+    password.
+  * Complete CS100.
 
+Once that is done, SLAC's training documentation states:
 
-.. _need-a-nersc-account:
+   Your training completion should automatically post to your SLAC training
+   record within 2 hours. If it does not, email a copy of your certificate to
+   slac-training@slac.stanford.edu to receive course credit.
 
-I Need a New NERSC Account
----------------------------
-
-Step 1 — Apply for an account at NERSC
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-1. If you haven't already, `apply to become a DESC Member
-   <https://lsstdesc.org/pages/apply.html>`_.
-2. Visit the NERSC website:
-   https://docs.nersc.gov/accounts/
-3. Click **Create a NERSC Account form**.
-4. Click **I need a new NERSC account**.
-5. NERSC will request your ORCiD. If you do not already have one, you will be
-   asked to create one.
-6. Enter your preferred username.
-7. Search for the project using PI Name by entering ``Digel`` and choose the
-   ``m1727`` project, which is LSST_DESC.
-8. Fill in your contact information.
-9. Locate the name of your organization (your own institution, not DESC) under
-   **Organization**.
-
-   .. note::
-
-      You may have to start typing the name in the text box to cause a drop-down
-      menu to appear.
-
-10. Complete the rest of the form and click **Ok** at the top right of the page.
-11. After submitting, you will be asked to agree to the **NERSC Appropriate Use
-    Policy**. This is required for your account request to proceed.
-12. Once your request is approved, you will receive an email with a link to set
-    your initial password.
-
-    .. warning::
-
-       That link will expire if not used within **24 hours**. Use the link
-       promptly to set your password and Multi-Factor Authentication token.
-
-.. note::
-
-   If you need assistance with your account request, contact
-   lsst-desc-ops-mgmt at slac dot stanford dot edu 
-
+When SLAC accepts your course credit, they should re-enable your account. You
+will likely need to reset your password.
 
