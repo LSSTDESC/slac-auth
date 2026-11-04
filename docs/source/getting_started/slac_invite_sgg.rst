@@ -21,6 +21,8 @@ Handling the SLAC Invitation Email: Quick Overview
 * Please consider white listing slac.stanford.edu in your email client.
 * You will receive an email with the subject line: **Invitation to register with SLAC National Accelerator Laboratory**. 
     * While the invitation will mention that you may be asked for a copy of your passport, visa, etc - DESC is exempt from additional verification.  You only need to provide your name, a phone number, date of birth (you must be over 18), and agree to the SLAC "Acceptable Use" Policy.
+
+   * **SLAC invitations expire 10 days after they are sent out.  Please complete all of the steps in this process as soon as possible after receiving the email.**
 * Open the email and click **Register**
 * Complete the web form that is opened in your browser, clicking **Next** after each step
 * When asked if you plan on-site access to SLAC. The answer should almost certainly be "No" as it refers to working at SLAC, and visiting SLAC for open meetings like Sprint Week or a collaboration meeting do not count. Click **Next**
@@ -42,7 +44,11 @@ After receiving the **Welcome to SLAC** email, it will take SLAC up to 2 busines
 Handling the SLAC Invitation Email: Step by Step
 ------------------------------------------------
 
-You will receive an email with the subject line: **Invitation to register with SLAC National Accelerator Laboratory**. Open the email and click **Register**
+You will receive an email with the subject line: **Invitation to register with SLAC National Accelerator Laboratory**. 
+
+**SLAC invitations expire 10 days after they are sent out.  Please complete all of the steps in this process as soon as possible after receiving the email.**
+
+Open the email and click **Register**
 
 While the invitation will mention that you may be asked for a copy of your passport, visa, etc - DESC is exempt from additional verification.  You only need to provide your name, a phone number and agree to the SLAC "Acceptable Use" Policy.
   
