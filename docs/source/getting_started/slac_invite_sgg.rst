@@ -22,12 +22,14 @@ Handling the SLAC Invitation Email: Quick Overview
 * You will receive an email with the subject line: **Invitation to register with SLAC National Accelerator Laboratory**. 
     * While the invitation will mention that you may be asked for a copy of your passport, visa, etc - DESC is exempt from additional verification.  You only need to provide your name, a phone number, date of birth (you must be over 18), and agree to the SLAC "Acceptable Use" Policy.
 
-   * **SLAC invitations expire 10 days after they are sent out.  Please complete all of the steps in this process as soon as possible after receiving the email.**
 * Open the email and click **Register**
 * Complete the web form that is opened in your browser, clicking **Next** after each step
 * When asked if you plan on-site access to SLAC. The answer should almost certainly be "No" as it refers to working at SLAC, and visiting SLAC for open meetings like Sprint Week or a collaboration meeting do not count. Click **Next**
 * After completing the online form, you will receive a new email with the subject line: **SLAC registration approved - Additional steps required**
 * You will then receive an email with the subject line: **Next Step: Link your federated account for SLAC access**  It may take some time before you receive this email.
+
+  **The link in this email expires 10 days after it is sent out, please complete this step as soon as possible.**
+
   Click on the link in the email **"SLAC Identity Verification Link"**.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account
 
   * `Option 1 <option1_>`_: You are a **new** DESC member or you have **never** registered credentials with SLAC to access the DESC space on Confluence 
@@ -45,8 +47,6 @@ Handling the SLAC Invitation Email: Step by Step
 ------------------------------------------------
 
 You will receive an email with the subject line: **Invitation to register with SLAC National Accelerator Laboratory**. 
-
-**SLAC invitations expire 10 days after they are sent out.  Please complete all of the steps in this process as soon as possible after receiving the email.**
 
 Open the email and click **Register**
 
@@ -136,7 +136,11 @@ Please watch for an email with the subject line: **Next Step: Link your federate
       :width: 50%
       :alt: SLAC second email
 
-Once you receive that email, click on the link **"SLAC Identity Verification Link"**.  What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
+Once you receive that email, click on the link **"SLAC Identity Verification Link"**.  
+
+**The link in this email expires 10 days after it is sent out, please complete this step as soon as possible.**
+
+What you do next depends on whether you have already registered a federated account with SLAC, or you have created a SLAC Guest account.  If you are unsure, please reach out to lsst-desc-help@slac.stanford.edu or on Slack #desc-help
 
 * `Option 1 <option1_>`_: You are a **new** DESC member or you have **never** registered credentials with SLAC to access the DESC space on Confluence 
 * **Option 2**: You have already registered your federated account for SLAC access. Log in with the **same** federated credentials you registered previously.  This is important to make sure you are linked to your existing Confluence account. If using a SLAC AD account, please follow the `directions here to log in <http://lsstdesc.org/slac-auth/getting_started/slac_account.html>`__. If unsure about what type of credentials you used, please check this `spreadsheet <https://docs.google.com/spreadsheets/d/1ZWFefZjDcDNCez63lhpNaquLmJ9pYb71LW-Q6Jr_jgI/edit?usp=sharing>`__.
